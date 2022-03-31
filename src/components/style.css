@@ -1,0 +1,19 @@
+.box{
+    width: 500px;
+    margin: auto;
+    border: 3px solid green;
+    border-radius: 15px;
+    padding: 2%;
+    margin-top: 5%;
+}
+.task{
+    background-color: rgb(175, 253, 175);
+    margin-top: 5%;
+    text-align: left;
+}
+.icon{
+    cursor: pointer;
+}
+.highlight{
+    border-left:5px solid green;
+}
