@@ -1,6 +1,6 @@
 # React Todo App
 
-**To run this code properly follow the steps below**\
+**To run this code properly follow the steps below**
 
     1. Click the code button and download the project as a zip file
     
